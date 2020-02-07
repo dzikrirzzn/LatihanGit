@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">LatihanGit</string>
     <string name="hello_yasir">Hello Yasir!</string>
-    <string name="test_stash">Test Stash</string>
+    <string name="test_stash">test stash</string>
 </resources>
